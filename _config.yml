@@ -1,9 +1,9 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'A Jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+title:               STEG
+tagline:             'Staatliche Erfassungsgesellschaft für öffentliches Gut'
+description:         'A Narrative from the U.S. National Archives'
 url:                 'http://douglasibell.github.io'
 baseurl:             '/ed'
 
