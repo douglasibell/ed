@@ -5,7 +5,7 @@ title:               STEG
 tagline:             'Staatliche Erfassungsgesellschaft für öffentliches Gut'
 description:         'A Narrative from the U.S. National Archives'
 url:                 'http://douglasibell.github.io'
-baseurl:             '/ed'
+baseurl:             '/ed/texts/STEG'
 
 # About/contact
 author:
